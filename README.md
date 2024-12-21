@@ -1,1 +1,1 @@
-This project is part of the **'Introduction to AI & Data Science'** course assignment, focusing on the topics of statistics, Matplotlib, and Seaborn.
+This project is a part of my assignment for the 'Introduction to AI & Data Science' course at the Faculty of Computer Science, Universitas Indonesia. It focuses on the topics of statistics, Matplotlib, and Seaborn.
